@@ -83,7 +83,6 @@ std::cout << game_3.current_board_view [0] [0] << std::endl;
 std::cout << game_3.current_board_view [0] [2] << std::endl;
 std::cout << game_3.current_board_view [1] [1] << std::endl;
 
-
 // part 5 //     unity
 
 //printf("%ld\n", sizeof(short));
